@@ -20,7 +20,7 @@
 # USA
 #
 # This software is maintained by Vivake (vivakeATlab49.com) and is available at:
-#     http://www.lab49.com/~vivake/python/MP3Info.py
+#     https://omniscia.org/python/mp3info
 #
 #      ( 7/2003) - Incorporated various changes from Stan Seibert 
 #                  <volsungATxiph.org> for more robust ID3 detection.  Includes 
